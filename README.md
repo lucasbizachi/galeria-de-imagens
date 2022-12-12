@@ -7,3 +7,12 @@
 <img src="https://img.shields.io/github/repo-size/lucasbizachi/galeria-de-imagens"/>
 </p>
  
+ <h3>Descrição:<h3>
+ <p>Tela de imagens com transição e efeitos usando  CSS e JavaScript.</p>
+ 
+ <p>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=%20Finalizado&color=GREEN&style=for-the-badge"/>
+<p/>
+ 
+ <h3>Funcionalidade</h3>
+ <img src=""/>
