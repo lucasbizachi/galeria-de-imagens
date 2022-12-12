@@ -14,5 +14,5 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=%20Finalizado&color=GREEN&style=for-the-badge"/>
 <p/>
  
- <h3>Funcionalidade</h3>
- <img src=""/>
+ <h3>Funcionalidade:</h3>
+ <img src="assets/galeria.gif"/>
