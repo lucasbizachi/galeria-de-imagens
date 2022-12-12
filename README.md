@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/repo-size/lucasbizachi/galeria-de-imagens"/>
 </p>
  
- <h3>Descrição:<h3>
+ <h3>Descrição:</h3>
  <p>Tela de imagens com transição e efeitos usando  CSS e JavaScript.</p>
  
  <p>
