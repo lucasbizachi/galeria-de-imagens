@@ -17,4 +17,4 @@
  <h3>Funcionalidade:</h3>
  <img src="assets/galeria.gif"/>
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://lucasbizachi.github.io/galeria-de-imagens/)
